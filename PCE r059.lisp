@@ -4,11 +4,6 @@
 ;;; Author      : Frank Tamborello
 ;;; Copyright   : (c) 2012, 2013 Frank Tamborello
 ;;; Availability: Public Domain
-;;; Address     : United States Naval Research Laboratory
-;;;		: 4555 Overlook Ave SW
-;;;		: Code 5515
-;;;		: Washington, DC 20375
-;;;		: franklin.tamborello.ctr@nrl.navy.mil
 ;;; 
 ;;; 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
